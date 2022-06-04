@@ -34,6 +34,12 @@
  	font-weight: inherit;
  	text-align: justify;
  }
+.content {
+	padding: 10px;
+   	margin: 10px;
+    	border: 1px solid #FFA07A;
+	border-radius: 5px;
+}
 
  /*  Simple Responsive Framework  */
  .row {
