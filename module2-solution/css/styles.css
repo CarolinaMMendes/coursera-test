@@ -15,7 +15,6 @@
  	font-weight: bold;
  	text-align: center;
  	font-size: xxx-large;
-    color: #FFA07A
  }
  h2 {
  	margin-bottom: 15px;
@@ -28,3 +27,9 @@
  	font-weight: inherit;
  	text-align: justify;
  }
+
+ /*  Simple Responsive Framework  */
+ .row {
+ 	width: 100%;
+ }
+ 
