@@ -7,12 +7,23 @@
  body {
  	background-color: #FFFAFA;
  	font-family: Helvetica, Arial, sans-serif;
-   color: #18191A;
-  padding: 20px;
+   	color: #18191A;
+  	padding: 20px;
  }
  h1 {
  	margin-bottom: 15px;
  	font-weight: bold;
  	text-align: center;
  	font-size: xxx-large;
+ }
+ h2 {
+ 	margin-bottom: 15px;
+ 	font-weight: 200;
+ 	text-align: right;
+ 	font-size: inherit;
+ 	color: #FFA07A;
+ }
+ p {
+ 	font-weight: 200;
+ 	text-align: justify;
  }
