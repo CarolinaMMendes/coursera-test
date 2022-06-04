@@ -19,7 +19,10 @@
  h2 {	
     margin-bottom: 15px;
     width: 40%;
-    border: 1px solid #FFA07A;
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-right: 2px solid #FFA07A;
     margin-top: 0px;
     margin-right: 0px;
     margin-left: auto;
@@ -29,6 +32,7 @@
     text-align: center;
     font-size: inherit;
     color: #FFA07A;
+    
  }
  p {
  	font-weight: inherit;
