@@ -1,0 +1,7 @@
+.row {
+  margin-bottom: 5px;
+}
+.row > div {
+  border: 2px solid #006ee6;
+  background-color: #C9C9C9;
+}
