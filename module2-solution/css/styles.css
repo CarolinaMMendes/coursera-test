@@ -19,12 +19,12 @@
  }
  h2 {
  	margin-bottom: 15px;
- 	font-weight: 200;
+ 	font-weight: bold;
  	text-align: right;
  	font-size: inherit;
  	color: #FFA07A;
  }
  p {
- 	font-weight: 200;
+ 	font-weight: inherit;
  	text-align: justify;
  }
