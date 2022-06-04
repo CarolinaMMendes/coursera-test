@@ -17,15 +17,18 @@
  	font-size: xxx-large;
  }
  h2 {	
-	width:  25%;
- 	border: 1px solid #FFA07A;
- 	padding-top: 10px;
- 	padding-bottom: 10px;
- 	padding-right: 10px;
- 	font-weight: bold;
- 	text-align: center;
- 	font-size: inherit;
- 	color: #FFA07A;
+    margin-bottom: 15px;
+    width: 40%;
+    border: 1px solid #FFA07A;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+    font-size: inherit;
+    color: #FFA07A;
  }
  p {
  	font-weight: inherit;
