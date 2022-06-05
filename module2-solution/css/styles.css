@@ -35,11 +35,16 @@
     text-transform: uppercase;
     
  }
- ul {
+ p {
  	font-weight: inherit;
  	text-align: center;
     	color: #363537;
  }
+
+.bold {
+	font-weight: bold;
+}
+
 .content {
 	padding: 10px;
    	margin: 10px;
