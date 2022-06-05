@@ -6,21 +6,21 @@
  }
  body {
  	background-color: #fcfcfc;
- 	font-family: Helvetica, Arial, sans-serif;
+ 	font-family: Calibri, sans-serif;
    	color: #18191A;
   	padding: 20px;
  }
  h1 {
  	margin-top: 10px;
 	margin-bottom: 30px;
- 	font-weight: bold;
  	text-align: center;
  	font-size: xxx-large;
 	color: #80a47f;
+	text-transform: uppercase;
  }
  h2 {	
     margin-bottom: 15px;
-    width: 40%;
+    width: 160px;
     background-color: #80a47f;
     border-radius: 10px;
     margin-top: 0px;
@@ -28,15 +28,17 @@
     margin-left: auto;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-weight: bold;
     text-align: center;
     font-size: inherit;
     color: #fcfcfc;
+    font-weight: normal;
+    text-transform: uppercase;
     
  }
  p {
  	font-weight: inherit;
- 	text-align: justify;
+ 	text-align: center;
+    	color: #fcfcfc;
  }
 .content {
 	padding: 10px;
