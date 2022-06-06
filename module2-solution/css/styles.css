@@ -41,6 +41,8 @@
 	font-weight: inherit;
  	text-align: center;
     	color: #363537;
+ 	height: 90px;
+    	overflow: auto;
  }
 
 .bold {
@@ -51,7 +53,6 @@
 .content {
 	position: relative;
    	margin: 10px;
-	height: 150px;
         border: 1px solid black;
 	border-radius: 10px;
 	background-color: #c2cdc0;
